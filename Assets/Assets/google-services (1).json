@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604651148073",
+    "firebase_url": "https://magicalalphabets-default-rtdb.firebaseio.com",
+    "project_id": "magicalalphabets",
+    "storage_bucket": "magicalalphabets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604651148073:android:c4f41668bb69881613dd38",
+        "android_client_info": {
+          "package_name": "com.magicalalphabets.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604651148073-9v8trp275vr2sh9ukcrkfrh4cm0aqiv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJi3KN9JAsWRA0cOmi2WJaaVK9CFitsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604651148073-9v8trp275vr2sh9ukcrkfrh4cm0aqiv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604651148073-ma264793udrnjaji4oa4h3icq69ppfea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magicalalphabets.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

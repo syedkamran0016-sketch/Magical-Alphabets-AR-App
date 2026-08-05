@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604651148073",
+    "project_id": "magicalalphabets",
+    "storage_bucket": "magicalalphabets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604651148073:android:c4f41668bb69881613dd38",
+        "android_client_info": {
+          "package_name": "com.magicalalphabets.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJi3KN9JAsWRA0cOmi2WJaaVK9CFitsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
